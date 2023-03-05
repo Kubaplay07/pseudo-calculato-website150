@@ -2,4 +2,4 @@
 
 # pseudo-calculato-website150
 
-# [Web](https://kubaplay07.github.io/pseudo-calculato-website150)
+# [Github Page](https://kubaplay07.github.io/pseudo-calculato-website150)
